@@ -1,6 +1,6 @@
 applications:
-- name: NodeFibo
+- name: NodeFib
   mem: 256M
-  instances: 1
+  instances: 2
 
   
